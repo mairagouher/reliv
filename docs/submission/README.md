@@ -33,6 +33,10 @@
 
 **RELiV Smart Health Kiosk**
 
+## Project overview
+
+RELiV is a smart preventive healthcare kiosk that brings non-invasive screening into everyday environments. The public website highlights a 3-minute experience designed to help users check essential health metrics without appointments, travel, or wait-heavy diagnosis workflows.
+
 ## Problem Statement
 
 Traditional healthcare diagnostics require appointments, travel, waiting time, and patient-side delays. RELiV places preventive health screening in everyday spaces so users can check their vitals without setup friction and receive digital wellness summaries in minutes.
@@ -87,10 +91,15 @@ These assets are public-facing and intended to be accessed without restricted pe
 ## Public links
 
 - Project website: https://relivkiosk.vercel.app/
+- Home / product landing: https://relivkiosk.vercel.app/
 - About page: https://relivkiosk.vercel.app/about.html
+- Try Reliv simulator: https://relivkiosk.vercel.app/simulator.html
 - Find Kiosk: https://relivkiosk.vercel.app/#find
 - Organisations / solutions: https://relivkiosk.vercel.app/organisations.html
 - Product pages: https://relivkiosk.vercel.app/health-kiosk.html and https://relivkiosk.vercel.app/health-atm.html
+- Colleges: https://relivkiosk.vercel.app/solutions/colleges.html
+- Workplaces: https://relivkiosk.vercel.app/solutions/offices.html
+- Fitness centers: https://relivkiosk.vercel.app/solutions/gyms.html
 - Careers: https://relivkiosk.vercel.app/careers.html
 - Media: https://relivkiosk.vercel.app/media.html
 - Contact: mailto:relivcustomercare.in@gmail.com

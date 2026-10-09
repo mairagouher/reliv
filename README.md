@@ -64,9 +64,11 @@ It combines a physical kiosk, local computing, sensor integration, a touch inter
 
 **Project origin:** Developed and demonstrated from the IEM Gurukul Sector V Hub, Kolkata, West Bengal, India.
 
-**Website positioning:** Reliv is positioned as a preventive healthcare startup/platform focused on self-service screening in everyday public environments.
+**Website positioning:** RELiV is positioned as a preventive healthcare startup/platform focused on self-service screening in everyday public environments.
 
 **Recognition:** Startup India certified, DPIIT recognized, and associated with the Smart India Hackathon 2026 ecosystem.
+
+**Public company identity:** The product is presented as a smart health-tech venture delivering preventive screening infrastructure and connected wellness experiences.
 
 ## College/Incubator information
 
@@ -77,6 +79,10 @@ It combines a physical kiosk, local computing, sensor integration, a touch inter
 ## Project title
 
 **RELiV Smart Health Kiosk**
+
+## Project overview
+
+RELiV is a smart preventive healthcare kiosk that brings non-invasive screening into everyday environments. The public website highlights a 3-minute experience designed to help users check essential health metrics without appointments, travel, or wait-heavy diagnosis workflows.
 
 ## Problem statement
 
@@ -156,7 +162,9 @@ The public website organizes the product under the following sections:
 
 | Website section | Purpose | Public link |
 |---|---|---|
+| Home | Product introduction and landing message | [Reliv Home](https://relivkiosk.vercel.app/) |
 | Product | Health kiosk and health ATM overview | [Health Kiosk](https://relivkiosk.vercel.app/health-kiosk.html) / [Health ATM](https://relivkiosk.vercel.app/health-atm.html) |
+| Try Reliv | Interactive simulator experience | [Simulator](https://relivkiosk.vercel.app/simulator.html) |
 | Find Kiosk | Active kiosk location in Kolkata | [Find Kiosk](https://relivkiosk.vercel.app/#find) |
 | Solutions | Campus, workplace, and gym deployment use cases | [Organisations](https://relivkiosk.vercel.app/organisations.html) |
 | Colleges & Universities | Student and faculty wellness screening | [Colleges](https://relivkiosk.vercel.app/solutions/colleges.html) |
@@ -165,7 +173,7 @@ The public website organizes the product under the following sections:
 | About | Mission and problem framing | [About Reliv](https://relivkiosk.vercel.app/about.html) |
 | Media | Public and press pages | [Media](https://relivkiosk.vercel.app/media.html) |
 | Company / Careers | Opportunities and team ecosystem | [Careers & Internships](https://relivkiosk.vercel.app/careers.html) |
-| Contact | Direct contact details | [Email](mailto:relivcustomercare.in@gmail.com) |
+| Contact | Direct customer support details | [Email](mailto:relivcustomercare.in@gmail.com) |
 | Legal | Privacy, terms, and medical disclaimer | [Privacy Policy](https://relivkiosk.vercel.app/legal/privacy.html) / [Terms of Service](https://relivkiosk.vercel.app/legal/terms.html) / [Medical Disclaimer](https://relivkiosk.vercel.app/legal/disclaimer.html) |
 | Social | Instagram and WhatsApp | [WhatsApp](https://wa.me/919163606455) / [Instagram](https://www.instagram.com/reliv_care/) |
 

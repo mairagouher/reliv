@@ -45,54 +45,140 @@ It combines a physical kiosk, local computing, sensor integration, a touch inter
 
 ## Submission checklist
 
-- [x] Team details
-- [x] College/Incubator information
-- [x] Project Title
-- [x] Problem Statement
-- [x] Healthcare Use Case
-- [x] Technical Stack
-- [x] AI/ML Model or Framework Details
-- [x] 15–20 minute Demo Video is uploaded as an Unlisted YouTube video and the link is added to the README
-- [x] Open-source License Details
-- [x] Architecture Diagram in PDF/PPT format
-- [x] Presentation in PDF/PPT format covering project details and outcomes
-- [x] All files and links are publicly accessible without additional permissions
+- [x] [Team details](#team-details)
+- [x] [College/Incubator information](#college-incubator-information)
+- [x] [Project title](#project-title)
+- [x] [Problem statement](#problem-statement)
+- [x] [Healthcare use case](#healthcare-use-case)
+- [x] [Technical stack](#technical-stack)
+- [x] [AI/ML model or framework details](#aiml-model-or-framework-details)
+- [x] [Demo video](#demo-video)
+- [x] [Open-source license details](#open-source-license-details)
+- [x] [Architecture diagram](#architecture-diagram)
+- [x] [Presentation](#presentation)
+- [x] [Public accessibility](#public-accessibility)
 
-## Project snapshot
+## Team details
 
-**Project title:** RELiV Smart Health Kiosk
+**Team:** Reliv Care Technologies
 
-**Problem statement:** Preventive healthcare remains difficult to access in everyday spaces such as campuses, workplaces, gyms, and community hubs. RELiV addresses this with a self-service kiosk that completes non-invasive health screening in around 3 minutes and produces an instant digital wellness summary.
+**Project origin:** Developed and demonstrated from the IEM Gurukul Sector V Hub, Kolkata, West Bengal, India.
 
-**Healthcare use case:** Autonomous vitals checking for blood pressure, SpO₂, temperature, body metrics, and wellness guidance, available in English, Hindi, and Bengali.
+**Website positioning:** Reliv is positioned as a preventive healthcare startup/platform focused on self-service screening in everyday public environments.
 
-**Team & institution:** RELiV Care Technologies, with the kiosk being developed and demonstrated from the IEM Gurukul Sector V Hub, Kolkata. The platform is recognized through Startup India, DPIIT, and Smart India Hackathon 2026 ecosystem visibility.
+**Recognition:** Startup India certified, DPIIT recognized, and associated with the Smart India Hackathon 2026 ecosystem.
 
-**Technical stack:** Raspberry Pi, ESP32/ESP32-S3, React, Node.js + Express, Python, SQLite, BLE/UART/MQTT, and a verified payment + dispensing flow.
+## College/Incubator information
 
-**AI/ML and framework details:** See the project documentation and the public AI/ML framework details PDF in this repository: [AI/ML Framework Details](./open%20source%20and%20aiml%20frame%20work%20details.pdf).
+- **Current public location:** IEM Gurukul Sector V Hub, Kolkata
+- **Institutional framing:** The website presents RELiV as a practical campus, workplace, and community health solution.
+- **Recognition ecosystem:** Startup India Certified and DPIIT Recognized signals support for early-stage innovation and deployment readiness.
 
-## Public submission links
+## Project title
 
-| Asset | Link |
-|---|---|
-| Live website | https://relivkiosk.vercel.app/ | Smart Preventive Health Screening India](https://relivkiosk.vercel.app/) |
-| Demo video | [Public demo video](https://drive.google.com/file/d/1pCtbxVz6lWboECqmcMG6Bz_8ShGW6iFj/view?usp=sharing) |
-| Architecture / presentation PDF | [Public PDF asset](https://drive.google.com/file/d/1ZPd1Oe96mEcPlWhB_8Kcii7WlnUrwtxs/view?usp=sharing) |
-| License | [LICENSE](./LICENSE) |
-| AI/ML framework details | [Open source and AI/ML framework details PDF](./open%20source%20and%20aiml%20frame%20work%20details.pdf) |
-| Sample health report | [Sample Health Report](docs/reports/Sample-Health-Report.pdf) |
-| Sample receipt | [Sample Receipt](docs/reports/Reliv-Receipt.pdf) |
+**RELiV Smart Health Kiosk**
 
-## Website-derived details
+## Problem statement
 
-The public RELiV website describes the product as a smart, autonomous preventive-health kiosk that can:
+Lifestyle conditions such as hypertension, cardiovascular anomalies, and metabolic imbalances often develop silently without clear symptoms. Traditional diagnostics usually require appointment scheduling, travel, waiting times, and laboratory reports. RELiV solves this by placing smart, non-invasive health stations in everyday environments such as colleges, offices, gyms, and public hubs.
 
-- complete a 3-minute check-up with body metrics, blood pressure, SpO₂, and temperature
-- offer multilingual interaction in English, Hindi, and Bengali
-- generate a digital wellness summary with a secure QR code
-- provide a kiosk experience suitable for campuses, workplaces, gyms, and institutional hubs
-- operate in a supervised public-health setting with free assisted screenings at the current Kolkata kiosk location
+## Healthcare use case
+
+RELiV offers a self-service health kiosk for:
+
+- blood pressure monitoring
+- pulse oximetry (SpO₂)
+- pulse rate and temperature checks
+- body composition and body metrics
+- digital wellness summary generation with QR-based mobile access
+- multilingual support in English, Hindi, and Bengali
+
+The website describes the kiosk as a 3-minute preventive screening experience.
+
+## Technical stack
+
+**Hardware and device stack:**
+
+- Raspberry Pi 5
+- ESP32 / ESP32-S3
+- BLE, UART, MQTT communication
+- offline-first kiosk + smartphone bridge model
+
+**Software and application stack:**
+
+- React for the front-end experience
+- Node.js + Express for backend logic
+- Python for device processing and local operations
+- SQLite for local data storage
+
+**Functional stack:**
+
+- biometric and health-sensor workflows
+- digital report generation
+- QR access and mobile wellness summary delivery
+- payment verification + dispensing flow
+
+## AI/ML model or framework details
+
+The repository includes an AI/ML framework details PDF for the project:
+
+- [Open source and AI/ML framework details PDF](./open%20source%20and%20aiml%20frame%20work%20details.pdf)
+
+The public interface also references digital wellness intelligence, multilingual interaction, and guided health summaries, which are part of the kiosk's intelligent health-report workflow.
+
+## Demo video
+
+**Watch the RELiV demo video:**
+
+- [Public demo video](https://drive.google.com/file/d/1pCtbxVz6lWboECqmcMG6Bz_8ShGW6iFj/view?usp=sharing)
+
+## Open-source license details
+
+- [LICENSE](./LICENSE)
+
+## Architecture diagram
+
+- [Public architecture / presentation PDF](https://drive.google.com/file/d/1ZPd1Oe96mEcPlWhB_8Kcii7WlnUrwtxs/view?usp=sharing)
+- [System architecture documentation](docs/architecture/system-architecture.md)
+
+## Presentation
+
+- [SIH presentation hub](docs/presentation/README.md)
+- [Project overview and context](docs/presentation/README.md)
+
+## Public accessibility
+
+All listed materials are public-facing and accessible without special permissions. The website, Google Drive clips, sample reports, and repository assets are all intended to be viewable directly without gated access.
+
+## Website-derived product and company details
+
+The public website organizes the product under the following sections:
+
+| Website section | Purpose | Public link |
+|---|---|---|
+| Product | Health kiosk and health ATM overview | [Health Kiosk](https://relivkiosk.vercel.app/health-kiosk.html) / [Health ATM](https://relivkiosk.vercel.app/health-atm.html) |
+| Find Kiosk | Active kiosk location in Kolkata | [Find Kiosk](https://relivkiosk.vercel.app/#find) |
+| Solutions | Campus, workplace, and gym deployment use cases | [Organisations](https://relivkiosk.vercel.app/organisations.html) |
+| Colleges & Universities | Student and faculty wellness screening | [Colleges](https://relivkiosk.vercel.app/solutions/colleges.html) |
+| Workplaces | Corporate office preventive screening | [Workplaces](https://relivkiosk.vercel.app/solutions/offices.html) |
+| Fitness Centers | Gym and wellness use case | [Fitness Centers](https://relivkiosk.vercel.app/solutions/gyms.html) |
+| About | Mission and problem framing | [About Reliv](https://relivkiosk.vercel.app/about.html) |
+| Media | Public and press pages | [Media](https://relivkiosk.vercel.app/media.html) |
+| Company / Careers | Opportunities and team ecosystem | [Careers & Internships](https://relivkiosk.vercel.app/careers.html) |
+| Contact | Direct contact details | [Email](mailto:relivcustomercare.in@gmail.com) |
+| Legal | Privacy, terms, and medical disclaimer | [Privacy Policy](https://relivkiosk.vercel.app/legal/privacy.html) / [Terms of Service](https://relivkiosk.vercel.app/legal/terms.html) / [Medical Disclaimer](https://relivkiosk.vercel.app/legal/disclaimer.html) |
+| Social | Instagram and WhatsApp | [WhatsApp](https://wa.me/919163606455) / [Instagram](https://www.instagram.com/reliv_care/) |
+
+## Website summary
+
+From the public website, RELiV is described as a smart, autonomous preventive health kiosk that:
+
+- completes a health check in around 3 minutes
+- measures blood pressure, SpO₂, pulse, temperature, and body metrics
+- offers multilingual interaction in English, Hindi, and Bengali
+- generates instant digital wellness summaries via secure QR-based access
+- is designed for colleges, workplaces, gyms, and community hubs
+- operates with free assisted screening at the current Kolkata kiosk location
 
 ## Why RELiV?
 

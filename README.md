@@ -76,7 +76,7 @@ It combines a physical kiosk, local computing, sensor integration, a touch inter
 
 | Asset | Link |
 |---|---|
-| Live website | [Reliv Health Kiosk | Smart Preventive Health Screening India](https://relivkiosk.vercel.app/) |
+| Live website | https://relivkiosk.vercel.app/ | Smart Preventive Health Screening India](https://relivkiosk.vercel.app/) |
 | Demo video | [Public demo video](https://drive.google.com/file/d/1pCtbxVz6lWboECqmcMG6Bz_8ShGW6iFj/view?usp=sharing) |
 | Architecture / presentation PDF | [Public PDF asset](https://drive.google.com/file/d/1ZPd1Oe96mEcPlWhB_8Kcii7WlnUrwtxs/view?usp=sharing) |
 | License | [LICENSE](./LICENSE) |

@@ -1,4 +1,4 @@
-# Changelog
+# Changelogs
 
 All notable RELiV changes will be documented here.
 
